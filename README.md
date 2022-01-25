@@ -1,6 +1,6 @@
 # Card Hover
 
-[Clique aqui para ver o projeto](http://www.google.com.br)
+[Clique aqui para ver o projeto](https://wellytonsdj.github.io/card-hover/)
 
 ## Intenção do projeto
 
@@ -10,4 +10,4 @@ Dessa vez criei um card com o efeito hover (quando arrastar mouse sobre ele) mos
 
 A idéia é que sejam para 3 cards por tela, mas nada impede que o código seja alterado para tal.
 
-[Clique aqui para ver o projeto](http://www.google.com.br)
+[Clique aqui para ver o projeto](https://wellytonsdj.github.io/card-hover/)
